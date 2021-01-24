@@ -1,3 +1,5 @@
 module github.com/codemodify/systemkit-helpers-guid
 
-go 1.13
+go 1.15
+
+require github.com/google/uuid v1.2.0
